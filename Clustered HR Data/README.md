@@ -12,8 +12,7 @@ This project includes an HR Analytics dashboard created in Power BI. The dashboa
 ![Dashboard Screenshot 3](3.png)
 
 ## 📁 Zawartość repozytorium / Repository Contents
-![Model Screenshot 1](model1.png)
-![Model Screenshot 2](model2.png)
+
 - **1.png, 2.png, 3.png** – Zrzuty ekranu dashboardu. / Dashboard screenshots.
 - **HR Analytics Data.csv** – Zbiór danych używany w analizie HR. / Dataset used for HR analysis.
 - **HR employee data.csv** – Dane pracowników. / Employee data.
