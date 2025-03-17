@@ -9,11 +9,11 @@ This repository contains interactive dashboards created in Power BI that allow f
 ### 🍫 Chocolate Business Dashboard
 Analiza danych dotyczących sprzedaży w branży czekoladowej.
 - [Repozytorium](./Chocolate/)
-- [Link do dashboardu]([TU_WSTAW_LINK](https://mckpk-my.sharepoint.com/:u:/g/personal/szymon_skrzypek_student_pk_edu_pl/Eaj4clnqTFtCnSDpzIVbZeoBhfajhXViDLGql1lEcDSLkA?e=FAxgcH))
+- [Link do dashboardu](https://mckpk-my.sharepoint.com/:u:/g/personal/szymon_skrzypek_student_pk_edu_pl/Eaj4clnqTFtCnSDpzIVbZeoBhfajhXViDLGql1lEcDSLkA?e=FAxgcH)
 
 Analysis of sales data in the chocolate industry.
 - [Repository](./Chocolate/)
-- [Dashboard Link]([INSERT_LINK_HERE](https://mckpk-my.sharepoint.com/:u:/g/personal/szymon_skrzypek_student_pk_edu_pl/Eaj4clnqTFtCnSDpzIVbZeoBhfajhXViDLGql1lEcDSLkA?e=FAxgcH))
+- [Dashboard Link](https://mckpk-my.sharepoint.com/:u:/g/personal/szymon_skrzypek_student_pk_edu_pl/Eaj4clnqTFtCnSDpzIVbZeoBhfajhXViDLGql1lEcDSLkA?e=FAxgcH)
 
 ### 👥 Clustered HR Data Dashboard
 Analiza danych HR dotyczących zatrudnienia, awansów i zwolnień.
