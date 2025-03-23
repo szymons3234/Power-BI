@@ -17,11 +17,11 @@ Analysis of sales data in the chocolate industry.
 
 ### 👥 Clustered HR Data Dashboard
 Analiza danych HR dotyczących zatrudnienia, awansów i zwolnień.
-- [Repozytorium](./Clustered_HR_Data/)
+- [Repozytorium]([./Clustered_HR_Data/](https://github.com/szymons3234/Power-BI/tree/main/Clustered%20HR%20Data))
 - [Link do dashboardu](TU_WSTAW_LINK)
 
 Analysis of HR data related to employment, promotions, and layoffs.
-- [Repository](./Clustered_HR_Data/)
+- [Repository]([./Clustered_HR_Data/](https://github.com/szymons3234/Power-BI/tree/main/Clustered%20HR%20Data))
 - [Dashboard Link](INSERT_LINK_HERE)
 
 ## 🚀 Jak używać? / How to Use?
